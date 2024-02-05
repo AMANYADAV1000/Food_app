@@ -1,0 +1,34 @@
+{
+  "name": "class-1",
+  "version": "1.0.0",
+  "description": "this is react project",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/AMANYADAV1000/React-.git)"
+  },
+  "keywords": [],
+  "author": "\"aman yadav\",",
+  "license": "ISC",
+  "browserslists": [
+    "last 2 chrome version",
+    "last 2 firefox version"
+  ],
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "parcel": "^2.11.0",
+    "postcss": "^8.4.33",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.0.12"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.3"
+  }
+}
